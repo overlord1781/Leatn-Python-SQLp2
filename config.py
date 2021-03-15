@@ -1,0 +1,1 @@
+DATA_URL = 'postgresql://mgqxunyl:jIF5Y7dweoXqS__rJariBZyNTWDM5mu5@hattie.db.elephantsql.com:5432/mgqxunyl'
